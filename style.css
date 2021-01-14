@@ -1,0 +1,111 @@
+
+/* ----------Navbar--------- */
+#nav-bar{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background-color:#FFFBF0
+}
+.navbar-brand img{
+    height: 40px;
+    padding-left: 20px;
+}
+.navbar-nav li{
+    padding: 0 10px;
+}
+.navbar-nav li a{
+    color: #3c3c3c !important;
+    font-weight:600;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* ----------Top Banner--------- */
+.top-banner{
+    background-color:#FFFBF0
+}
+#banner{
+    padding: 40px;
+}
+#banner img{
+    width: 80%;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 500;
+    line-height: 60px;
+    font-size: 70px;
+}
+#banner-heading-1{
+    color: #FA804C;
+}
+#banner-heading-2{
+    color: #363958;
+}
+p{
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    color: #3c3c3c;
+    font-weight: 400;
+}
+button{
+    background-image: linear-gradient(#3D4FF3, #3543BC);
+    padding:15px 25px ;
+    border: 0;
+    border-radius: 10px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* ----------Casual Shoes and Formal Shoes--------- */
+h2{
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+    font-size: 40px;
+}
+.shoe-brands h2{
+    color: #FA804C;
+}
+h3{
+    font-family: 'Roboto', sans-serif;
+    color: #363958;
+    font-weight: 700;
+}    
+.casual-shoe-card{
+    border: 0;
+}
+.casual-shoe-card img{
+    background-color: #f1f1f1;
+    border-radius: 20px;
+}
+
+/* ----------About Us--------- */
+.services-img img{
+    width: 60%;
+}
+.about-us h3{
+    font-size: 22px !important;
+    
+}
+.contact-cards{
+    border-radius: 20px;
+}
+/* ----------Hot Deal---------- */
+.hot-deal-bg{
+    background-color:#FFFBF0 !important;  
+}
+.img-slider h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+}
+.picked-4-u{
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+    font-size: 40px;
+}
+/* ----------Footer---------- */
+.footer{
+    font-size: 14px;
+    background-color: rgba(128, 128, 128, 0.199);
+    text-align: center;
+}
